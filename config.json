@@ -1,5 +1,5 @@
 {
-    "database": {
+    "database": { 
         "host": "oytunpostgres.postgres.database.azure.com",
         "dbname": "oytunpostgres",
         "user": "oytunuysal",
