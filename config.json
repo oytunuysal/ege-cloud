@@ -1,7 +1,7 @@
 {
     "database": { 
         "host": "oytunpostgres.postgres.database.azure.com",
-        "dbname": "oytunpostgres",
+        "dbname": "postgres",
         "user": "oytunuysal",
         "password": "Sifre123*",
         "ssl": "require"
